@@ -1,0 +1,31 @@
+<html>
+<body>
+<pre>
+<h1>Build Log</h1>
+<h3>
+--------------------Configuration: file13 - Win32 Debug--------------------
+</h3>
+<h3>Command Lines</h3>
+Creating temporary file "C:\Users\21989\AppData\Local\Temp\RSPA979.tmp" with contents
+[
+/nologo /MLd /W3 /Gm /GX /ZI /Od /D "WIN32" /D "_DEBUG" /D "_CONSOLE" /D "_MBCS" /Fp"Debug/file13.pch" /YX /Fo"Debug/" /Fd"Debug/" /FD /GZ /c 
+"D:\C语言：MyProjects\入门练习\test13（@ 用指针传递函数从小到大排列3个整数）\file13.c"
+]
+Creating command line "cl.exe @C:\Users\21989\AppData\Local\Temp\RSPA979.tmp" 
+Creating temporary file "C:\Users\21989\AppData\Local\Temp\RSPA97A.tmp" with contents
+[
+kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /nologo /subsystem:console /incremental:yes /pdb:"Debug/file13.pdb" /debug /machine:I386 /out:"Debug/file13.exe" /pdbtype:sept 
+".\Debug\file13.obj"
+]
+Creating command line "link.exe @C:\Users\21989\AppData\Local\Temp\RSPA97A.tmp"
+<h3>Output Window</h3>
+Compiling...
+Error spawning cl.exe
+
+
+
+<h3>Results</h3>
+file13.exe - 1 error(s), 0 warning(s)
+</pre>
+</body>
+</html>
